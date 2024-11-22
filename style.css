@@ -1,0 +1,34 @@
+body {
+    min-height: 100dvh;
+    background-color: crimson;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    margin-top: 0%;
+    font-size: 45px;
+}
+
+h2 {
+    text-align: center;
+    color: aliceblue;
+    font-size: 30px;
+}
+
+pre{
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman';
+    font-size: 35px;
+
+}
+
+iframe {
+    align-items: center;
+    border: transparent; 
+}
